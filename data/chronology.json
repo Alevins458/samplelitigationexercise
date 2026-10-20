@@ -1,0 +1,227 @@
+[
+  {
+    "date": "2026-01-08",
+    "time": "",
+    "description": "Agreement executed for 2,000 SC-40 modules at $42 each ($84,000 total), delivery due February 15, FOB destination.",
+    "documents": [
+      "DOC-001"
+    ],
+    "status": "Documented",
+    "significance": "Establishes original contract terms and deadline."
+  },
+  {
+    "date": "2026-01-09",
+    "time": "09:41",
+    "description": "Horizon issues purchase order HM-1048 with February 15 delivery and standard anti-static packaging.",
+    "documents": [
+      "DOC-002"
+    ],
+    "status": "Documented",
+    "significance": "Corroborates original specifications."
+  },
+  {
+    "date": "2026-01-12",
+    "time": "10:16",
+    "description": "Summit acknowledges the order and plans February 13 dispatch.",
+    "documents": [
+      "DOC-003"
+    ],
+    "status": "Documented",
+    "significance": "Confirms planned performance."
+  },
+  {
+    "date": "2026-01-29",
+    "time": "16:30",
+    "description": "Summit internal report identifies shortages delaying batches B and C (1,400 modules).",
+    "documents": [
+      "DOC-004"
+    ],
+    "status": "Documented",
+    "significance": "Production problems predate the labeling request, potentially weakening Summit’s causation defense."
+  },
+  {
+    "date": "2026-02-02",
+    "time": "09:07",
+    "description": "Summit tells Horizon that February 15 delivery remains on schedule.",
+    "documents": [
+      "DOC-004",
+      "DOC-005"
+    ],
+    "status": "Disputed",
+    "significance": "Potential inconsistency between internal information and customer communications."
+  },
+  {
+    "date": "2026-02-06",
+    "time": "14:20",
+    "description": "Horizon inquires about serial-range labels, conditioned on no delay or cost increase.",
+    "documents": [
+      "DOC-006"
+    ],
+    "status": "Documented",
+    "significance": "Establishes the conditional labeling request."
+  },
+  {
+    "date": "2026-02-07",
+    "time": "08:54",
+    "description": "Summit replies that serial-range labels are probably feasible; effect on timing is unconfirmed.",
+    "documents": [
+      "DOC-007"
+    ],
+    "status": "Documented",
+    "significance": "No confirmed delivery extension."
+  },
+  {
+    "date": "2026-02-12",
+    "time": "17:42",
+    "description": "Summit warns the full order will be late and cites chip shortage and labeling changes.",
+    "documents": [
+      "DOC-008"
+    ],
+    "status": "Disputed",
+    "significance": "Documents anticipated nonperformance and Summit’s competing explanations."
+  },
+  {
+    "date": "2026-02-14",
+    "time": "18:10",
+    "description": "Westline Freight picks up an initial 600 modules; estimated arrival February 17.",
+    "documents": [
+      "DOC-009"
+    ],
+    "status": "Documented",
+    "significance": "Shipment does not establish timely delivery."
+  },
+  {
+    "date": "2026-02-15",
+    "time": "",
+    "description": "Contractual delivery deadline passes without evidence of delivery to Horizon.",
+    "documents": [
+      "DOC-001",
+      "DOC-009",
+      "DOC-010"
+    ],
+    "status": "Documented",
+    "significance": "Central alleged breach: delivery not completed by the contractual deadline."
+  },
+  {
+    "date": "2026-02-17",
+    "time": "12:20",
+    "description": "Horizon memo warns of possible production interruption and lost customer order.",
+    "documents": [
+      "DOC-011"
+    ],
+    "status": "Asserted",
+    "significance": "Potential consequential losses not independently substantiated."
+  },
+  {
+    "date": "2026-02-17",
+    "time": "16:52",
+    "description": "Horizon dock-scans 600 modules; receiving status initially on hold.",
+    "documents": [
+      "DOC-010"
+    ],
+    "status": "Documented",
+    "significance": "Establishes delayed physical arrival."
+  },
+  {
+    "date": "2026-02-18",
+    "time": "08:17",
+    "description": "Horizon finalizes receipt and accepts packaging of initial 600 modules.",
+    "documents": [
+      "DOC-010"
+    ],
+    "status": "Documented",
+    "significance": "Partial delivery accepted."
+  },
+  {
+    "date": "2026-02-20",
+    "time": "10:14",
+    "description": "Horizon accepts alternative quote for 1,000 modules at $59 each plus $1,250 expedited delivery.",
+    "documents": [
+      "DOC-012"
+    ],
+    "status": "Documented",
+    "significance": "Potential $17,000 unit-price differential, subject to proof of cover and recoverability."
+  },
+  {
+    "date": "2026-02-20",
+    "time": "",
+    "description": "Front Range Controls invoices $60,250; February 23 delivery promised subject to stock.",
+    "documents": [
+      "DOC-012"
+    ],
+    "status": "Unclear",
+    "significance": "No proof of delivery or payment."
+  },
+  {
+    "date": "2026-02-21",
+    "time": "",
+    "description": "Horizon sends notice alleging material breach and reserving direct-damages remedies.",
+    "documents": [
+      "DOC-013"
+    ],
+    "status": "Documented",
+    "significance": "Documents formal notice and stated position."
+  },
+  {
+    "date": "2026-02-23",
+    "time": "",
+    "description": "Promised date for alternative supplier delivery; fulfillment not established in the file.",
+    "documents": [
+      "DOC-012"
+    ],
+    "status": "Unclear",
+    "significance": "Mitigation documentation missing."
+  },
+  {
+    "date": "2026-02-25",
+    "time": "13:05",
+    "description": "Summit disputes sole responsibility and asserts labeling changes shifted expectations.",
+    "documents": [
+      "DOC-014"
+    ],
+    "status": "Disputed",
+    "significance": "Principal causation and modification defense; no signed change order supplied."
+  },
+  {
+    "date": "2026-03-03",
+    "time": "10:36",
+    "description": "Operations annotation records truck arrival of remaining 1,400 modules; receiving posted at 11:05.",
+    "documents": [
+      "DOC-010",
+      "DOC-015"
+    ],
+    "status": "Documented",
+    "significance": "Late completion of physical delivery."
+  },
+  {
+    "date": "2026-03-03",
+    "time": "",
+    "description": "Forty modules from final shipment flagged for quality-control inspection.",
+    "documents": [
+      "DOC-010",
+      "DOC-015"
+    ],
+    "status": "Unclear",
+    "significance": "Final disposition unknown."
+  },
+  {
+    "date": "2026-03-03",
+    "time": "",
+    "description": "Summit invoices $84,000; March 5 AP hold pending reconciliation and QA review.",
+    "documents": [
+      "DOC-015"
+    ],
+    "status": "Documented",
+    "significance": "Outstanding payment and possible offset issues."
+  },
+  {
+    "date": "2026-03-06",
+    "time": "",
+    "description": "Horizon AP extract shows no payment to Summit through March 6.",
+    "documents": [
+      "DOC-015"
+    ],
+    "status": "Documented",
+    "significance": "Unpaid original invoice; no information on alternative supplier payment."
+  }
+]

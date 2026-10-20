@@ -1,0 +1,218 @@
+[
+  {
+    "date": "2026-10-26",
+    "title": "Finalize complaint, exhibits, civil cover sheet, and filing materials",
+    "type": "Internal",
+    "responsible": "Attorney / Paralegal",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Attorney review and approval of complaint",
+    "type": "Internal",
+    "responsible": "Lead Attorney",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "File complaint and issue summons",
+    "type": "Filing",
+    "responsible": "Paralegal / Attorney",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Complete service of process on Summit; obtain proof",
+    "type": "Service",
+    "responsible": "Process Server / Paralegal",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "File return of service and verify docket entries",
+    "type": "Filing / QC",
+    "responsible": "Paralegal",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Confirm document preservation and client custodian interviews",
+    "type": "Internal",
+    "responsible": "Paralegal",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2026-11-25",
+    "title": "Summit's answer or other authorized response due (assumes no extension or motion altering the deadline)",
+    "type": "Responsive Pleading",
+    "responsible": "Defense Counsel",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2026-12-02",
+    "title": "Prepare preliminary witness, document, and damages disclosure lists",
+    "type": "Internal",
+    "responsible": "Paralegal",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2026-12-09",
+    "title": "Parties' Rule 16 meet-and-confer deadline",
+    "type": "Procedural",
+    "responsible": "Both Counsel",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2026-12-16",
+    "title": "Complete internal review of proposed initial disclosures",
+    "type": "Internal",
+    "responsible": "Attorney / Paralegal",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2026-12-23",
+    "title": "Exchange initial disclosures",
+    "type": "Procedural",
+    "responsible": "Both Parties",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-01-06",
+    "title": "File proposed case management order (assumed standard Rule 16)",
+    "type": "Filing",
+    "responsible": "Both Counsel",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-01-13",
+    "title": "Case management conference",
+    "type": "Hearing",
+    "responsible": "Attorneys",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-01-20",
+    "title": "Serve first requests for production and interrogatories",
+    "type": "Discovery",
+    "responsible": "Plaintiff's Counsel",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-02-10",
+    "title": "Review collection progress and outstanding discovery",
+    "type": "Internal",
+    "responsible": "Paralegal",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-02-19",
+    "title": "Review anticipated discovery responses and deficiencies",
+    "type": "Internal",
+    "responsible": "Attorney / Paralegal",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-03-05",
+    "title": "Meet and confer regarding discovery deficiencies",
+    "type": "Discovery",
+    "responsible": "Both Counsel",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-03-19",
+    "title": "Review supplemented productions and update evidence index",
+    "type": "Internal",
+    "responsible": "Paralegal",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-04-12",
+    "title": "Deposition of Summit production manager (illustrative setting)",
+    "type": "Deposition",
+    "responsible": "Attorneys / Court Reporter",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-04-26",
+    "title": "Deposition of Horizon procurement director (illustrative setting)",
+    "type": "Deposition",
+    "responsible": "Attorneys / Court Reporter",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-05-14",
+    "title": "Discovery cutoff (hypothetical scheduling order)",
+    "type": "Court Ordered",
+    "responsible": "Both Parties",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-06-21",
+    "title": "Dispositive motions deadline (hypothetical scheduling order)",
+    "type": "Court Ordered",
+    "responsible": "Attorneys",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-08-09",
+    "title": "Exchange draft witness/exhibit lists and exhibits",
+    "type": "Procedural",
+    "responsible": "Both Counsel",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-08-16",
+    "title": "Motions in limine deadline, absent contrary order",
+    "type": "Procedural",
+    "responsible": "Attorneys",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-08-23",
+    "title": "Proposed trial management order due",
+    "type": "Filing",
+    "responsible": "Both Counsel",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-09-13",
+    "title": "Final trial preparation and exhibit quality control",
+    "type": "Internal",
+    "responsible": "Attorney / Paralegal",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  },
+  {
+    "date": "2027-09-20",
+    "title": "Jury trial begins (hypothetical setting)",
+    "type": "Trial",
+    "responsible": "Trial Team",
+    "basis": "Hypothetical litigation calendar; authority/date to be verified",
+    "status": "Simulated / unverified"
+  }
+]
